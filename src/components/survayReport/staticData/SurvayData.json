@@ -1,0 +1,70 @@
+{
+  "data": {
+    "farmers": [
+      {
+        "survayName": "Seeds & Plants",
+        "percent": "25",
+        "UpnDown": "Up"
+      },
+      {
+        "survayName": "Farmers",
+        "percent": "3.4",
+        "UpnDown": "down"
+      },
+      {
+        "survayName": "Soil Tests",
+        "percent": "30",
+        "UpnDown": "up"
+      },
+      {
+        "survayName": "Pestisides",
+        "percent": "10",
+        "UpnDown": "down"
+      }
+    ],
+    "makers": [
+      {
+        "survayName": "Coffee needs",
+        "percent": "10",
+        "UpnDown": "up"
+      },
+      {
+        "survayName": "Dealers",
+        "percent": "25",
+        "UpnDown": "up"
+      },
+      {
+        "survayName": "Shops",
+        "percent": "10",
+        "UpnDown": "up"
+      },
+      {
+        "survayName": "Drinkers",
+        "percent": "2.7",
+        "UpnDown": "up"
+      }
+    ],
+    "shops": [
+      {
+        "survayName": "Recyling",
+        "percent": "2.7",
+        "UpnDown": "up"
+      },
+      {
+        "survayName": "Jobs",
+        "percent": "10",
+        "UpnDown": "up"
+      },
+      {
+        "survayName": "Wastage",
+        "percent": "5",
+        "UpnDown": "down"
+      },
+      {
+        "survayName": "Customers",
+        "percent": "50",
+        "UpnDown": "up"
+      }
+    ]
+  }
+}
